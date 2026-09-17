@@ -1,3 +1,5 @@
+<img src="icons/icon128.png" alt="Weather Watcher Logo" width="64" align="left" style="margin-right: 20px; border-radius: 10px;">
+
 # Local PDF Tools
 
 **Local PDF Tools** is a privacy-first Chrome extension that allows you to merge, split, and manage PDF files directly in your browser. All processing happens locally on your machine—your files are never uploaded to any server.
