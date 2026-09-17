@@ -1,4 +1,4 @@
-<img src="icons/icon128.png" alt="Weather Watcher Logo" width="64" align="left" style="margin-right: 20px; border-radius: 10px;">
+<img src="icons/icon128.png"  width="64" align="left" style="margin-right: 20px; border-radius: 10px;">
 
 # Local PDF Tools
 
