@@ -63,3 +63,9 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
+
+# Privacy: local configs, secrets, databases, keys, logs, installers
+settings.json
+*.db
+*.sqlite*
+*-Setup.exe
